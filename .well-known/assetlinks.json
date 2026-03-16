@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.base68cf0f179cd0d243dcd42501.app",
+      "sha256_cert_fingerprints": [
+        "B7:5B:33:41:01:46:16:F1:A3:66:E0:82:60:81:F4:5C:C9:6C:22:08:B6:F7:51:80:A5:30:01:C1:3B:57:1A:1A"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gigtronome.twa",
+      "sha256_cert_fingerprints": [
+        "EA:A2:A1:02:85:AE:31:07:0E:E9:63:8E:A6:E8:2B:53:B7:5C:4F:3F:DA:C0:03:0D:5A:F0:0B:41:8D:51:A4:B4"
+      ]
+    }
+  }
+]
